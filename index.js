@@ -8,3 +8,4 @@ module.exports = function(config) {
     var errorHandler = require('./lib/errorHandler');
     return errorHandler;
 }
+ 
